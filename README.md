@@ -19,3 +19,39 @@ Prerequisites
 Python 3.7 or higher
 
 pip (Python package installer)
+
+Installation
+
+1. Clone the repository:
+
+git clone https://github.com/MoizAnsari-Dev/fastApi_backend.git
+cd fastApi_backend
+
+
+2. Create a virtual environment:
+
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+
+3. Install dependencies:
+
+pip install fastapi uvicorn
+
+
+
+Running the Application
+
+Start the FastAPI server using Uvicorn:
+
+uvicorn main:app --reload
+
+The API will be accessible at http://127.0.0.1:8000.
+
+API Documentation
+
+Once the server is running, you can access the interactive API documentation at:
+
+Swagger UI: http://127.0.0.1:8000/docs
+
+ReDoc: http://127.0.0.1:8000/redoc
