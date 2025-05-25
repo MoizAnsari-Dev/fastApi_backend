@@ -10,3 +10,12 @@ FastAPI: Leverages FastAPI for building high-performance APIs.
 Patient Data Management: Handles patient information stored in a JSON file.
 
 Modular Structure: Organized codebase for clarity and scalability.
+
+
+Getting Started
+
+Prerequisites
+
+Python 3.7 or higher
+
+pip (Python package installer)
