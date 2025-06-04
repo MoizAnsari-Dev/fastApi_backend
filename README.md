@@ -52,4 +52,4 @@ API Documentation
 
 Once the server is running, you can access the interactive API documentation at:
 
-Swagger UI: http://127.0.0.1:8000
+Swagger UI
